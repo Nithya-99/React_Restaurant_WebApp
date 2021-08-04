@@ -1,0 +1,12 @@
+#total{
+    background-color: rgba(182, 224, 182, 0.959);
+    /* box-shadow: 1px 1px 20px 10px rgba(120, 196, 120, 0.959); */
+    border: 1px solid rgba(120, 196, 120, 0.959);
+    color: green;
+}
+label{
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+}
+

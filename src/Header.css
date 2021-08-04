@@ -1,0 +1,29 @@
+i{
+  font-size: 30px !important;
+}
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+.link{
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.topnav a {
+  float: left;
+  color: #FFD700;;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+.topnav a:hover {
+  color: white;
+}
+
+.topnav-right {
+  float: right;
+  margin-right: 20px;
+}

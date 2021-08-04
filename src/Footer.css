@@ -1,0 +1,11 @@
+.contact{
+    color: #FFD700;
+    text-decoration: none;
+}
+.page-footer{
+    background-color: black;
+}
+.contact:hover{
+    color:  white;
+    text-decoration: none;
+}

@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Footer matches snapshot 1`] = `
+<body>
+  <div>
+    <footer
+      class="page-footer font-small fixed-bottom"
+    >
+      <div
+        class="text-center py-3 contact"
+      >
+        <b>
+          Contact:
+        </b>
+        <a
+          data-testid="phn"
+        >
+           +91 9768304455
+        </a>
+         
+        <br />
+        <b>
+          Address:
+        </b>
+        <a
+          data-testid="address"
+        >
+           1st Floor, ATL Corporate Park, Saki Vihar Rd, Powai, Mumbai, Maharashtra 400072
+        </a>
+      </div>
+    </footer>
+  </div>
+</body>
+`;

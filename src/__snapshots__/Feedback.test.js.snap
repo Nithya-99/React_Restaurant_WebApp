@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Feedback matches snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="form"
+    >
+      <form
+        class="form1"
+      >
+        <h3
+          align="center"
+        >
+          Feedback
+        </h3>
+        <div
+          class="container"
+        >
+          <input
+            data-testid="email-input"
+            id="email"
+            name="email"
+            placeholder="Enter email"
+            type="text"
+          />
+          <p
+            class="error"
+          />
+          <textarea
+            data-testid="message-input"
+            id="message"
+            name="message"
+            placeholder="Message"
+          />
+          <p
+            class="error"
+          />
+          <div
+            class="clearfix"
+          >
+            <button
+              class="btn btn-lg"
+              data-testid="submit-feedback"
+              name="feedback"
+              type="button"
+            >
+              Submit
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</body>
+`;
